@@ -27,7 +27,7 @@ I hold a Bachelor of Technology in Computer Science and Engineering from Sveri�
 
 ## 🌐 Connect with Me
 - **Email:** preranalimbole18@gmail.com
-- **LinkedIn:** [Prerana Raju Limbole]([https://www.linkedin.com/in/prerana-raju-limbole/](https://www.linkedin.com/in/prerana-limbole))
+- **LinkedIn:** [Prerana Raju Limbole](https://www.linkedin.com/in/prerana-raju-limbole/](https://www.linkedin.com/in/prerana-limbole)
 - **GitHub:** [Preranarl](https://github.com/Preranarl)
 
 Thanks for visiting my profile! Feel free to check out my repositories and connect with me. 😊
